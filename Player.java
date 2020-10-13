@@ -13,7 +13,7 @@ public class Player
         attack = baseAtk;
         health = baseHP;
     }
-    public void setup()//sets stats and name of the player
+    public void setup()//sets stats and name of the player test
     {
         System.out.println("What is your name?");
         System.out.print("My name is: ");
